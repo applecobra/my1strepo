@@ -1,7 +1,7 @@
 # my1strepo
 tutorial
 
-This is my first time using git. I have been learning html and css on codecademy for 2 weeks.  I watch videos on you youtube and they led me here :)
+This is my first time using git. I have been learning html and css on codecademy for 2 weeks.  I watch videos on youtube and they led me here :)
 
 I will add more to this once I figure out what the hell is going on!
 
